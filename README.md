@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Node.JS is ❤ React is ❤ So is coding. And so is staying up late and building up the dream projects! And so is problem solving!
+Node.JS is 💖 <br/>
+React is 💖 <br/>
+So is coding. <br/>
+So is staying up late and building up the dream projects! <br/>
+And so is problem solving! <br/>
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shahriar1904@cseku.ac.bd](mailto:shahriar1904@cseku.ac.bd)
