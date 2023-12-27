@@ -7,7 +7,7 @@ Web Developer
 Node.JS is ❤ React is ❤ So is coding. And so is staying up late and building up the dream projects! And so is problem solving!
 
 * 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [shahriar1904@cseku.ac.bd](mailto:shahriar1904@cseku.ac.bd)
+* ✉️  You can contact me at [shourovk6@gmail.com](mailto:shourovk6@gmail.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Any NodeJS-powered project.
 * ⚡  If you love Family Guy, we must be friends!
