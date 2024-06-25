@@ -8,8 +8,7 @@ Node.JS is ❤ React is ❤ So is coding. And so is staying up late and building
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [shahriar1904@cseku.ac.bd](mailto:shahriar1904@cseku.ac.bd)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Any NodeJS powered project.
+* 🤝  I'm open to collaborating on Any NodeJS or ASP.NET powered project.
 * ⚡  If you love Family Guy, we must be friends!
 
 ### Skills
